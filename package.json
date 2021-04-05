@@ -1,5 +1,6 @@
 {
-  "name": "FinAPI",
+  "name": "Ignite",
+  "description": "Repositório para guardar projetos desenvolvidos na formação Ignite da Rocketseat.",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
